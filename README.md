@@ -15,15 +15,11 @@
 
 ## run the app
 **via terminal**:
-
-    ```bash 
     ollama serve
     ollama run deepseek-r1:7b
-    ```
+
     
  **via webview**:
- 
-    ```bash
     streamlit run app.py -w
-    ```
+
 
